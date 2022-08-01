@@ -16,7 +16,7 @@ Desarrollado por Grupo 2 de la [Universidad Autonoma de Manizales](https://www.a
 Clonar el repositorio.
 
 ```
-$ git clone https://github.com/lianmgaleano/ProyectoMetodologiasAgiles.git
+$ git clone https://github.com/NataliCastellanosG/Restaurante.git
 
 
 ```
