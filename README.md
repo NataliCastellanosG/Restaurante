@@ -24,6 +24,8 @@ $ git clone https://github.com/NataliCastellanosG/Restaurante.git
 Instalar las librerias necesarias.
 
 ```
+Ejecutar npm install para los node modules
+```
 
 ## Integrantes
 - Natalia Marcela Cardenas
