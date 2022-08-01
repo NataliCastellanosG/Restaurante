@@ -3,13 +3,17 @@
 Desarrollado por Grupo 2 de la [Universidad Autonoma de Manizales](https://www.autonoma.edu.co/)
 
 ## Introducción
+La aplicación móvil de domicilios de comida le permite a sus clientes registrarse en ella y posteriormente 
+autenticarse (con su nombre de usuario y contraseña) para acceder a los servicios del restaurante.
 
--Conocer los conceptos relacionados con los servicios web, en particular REST
--Diseñar los elementos de un servicio web REST a partir de los requerimientos específicos de un problema
--Definir los casos de prueba necesarios para verificar el correcto funcionamiento de un servicio web REST
--Utilizar Git, tanto local como remoto, como herramienta para realizar el versionamiento del código fuente de un proyecto
--Realizar la implementación básica de servcios web REST utilizando NodeJS y MongoDB
--Publicar una aplicación web en una plataforma como servicio (PaaS)
+Una vez ha ingresado el cliente, puede consultar la lista de restaurantes inscritos en el servicio y seleccionando
+a uno de ellos, puede consultar los platos que este restaurante oferta para la venta.
+
+Los clientes además de ver los listados de restaurantes y de platos, podrán consultar la información completa de cada
+plata y adquirirlo si es de su agrado.
+
+Con respecto a los platos elegidos para ser comprados, éstos pueden removerse (si el usuario se arrepiente de su compra), 
+calcular su precio total y pagar la compra, lo cual marca a los platos elegidos como pagados y ya no se deberá ningún valor.
 
 ## Instalación
 
@@ -28,5 +32,5 @@ Ejecutar npm install para los node modules
 ```
 
 ## Integrantes
-- Natalia Marcela Cardenas
+- Natalia Marcela Castellanos
 - Julian Betancur
